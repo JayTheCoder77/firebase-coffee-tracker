@@ -1,3 +1,3 @@
-export function Hero(){
+export default function Hero(){
     
 }
